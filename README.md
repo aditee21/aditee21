@@ -1,5 +1,6 @@
 ## Hi there, i'm aditee👋
-🔭
+##🔭First year student at VIT Bhopal
+## 🌱studying for bachelor's degree in Computer Science
 
 <!--
 **aditee21/aditee21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
