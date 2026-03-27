@@ -1,5 +1,6 @@
 ## Hi there, i'm aditee👋
-##🔭First year student at VIT Bhopal
+
+## 🔭First year student at VIT Bhopal
 ## 🌱studying for bachelor's degree in Computer Science
 
 <!--
